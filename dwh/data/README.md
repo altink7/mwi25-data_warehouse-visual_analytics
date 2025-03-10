@@ -11,6 +11,7 @@ jdbc:postgresql://localhost:5452/citibike_db?user=citibike_user&password=citibik
 - **Host:** `localhost`
 - **Port:** `5452`
 - **Database:** `citibike_db`
+-
 - **User:** `citibike_user`
 - **Password:** `citibike`
 
